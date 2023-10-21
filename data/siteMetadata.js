@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: "Jaehyun Kim's Blog",
-  author: 'Jaehyun Kim',
-  headerTitle: "Jaehyun Kim's Blog",
-  description: '정보의 바다에서 살아남기 위한 기록들',
+  title: "John Doe's Blog",
+  author: 'John Doe',
+  headerTitle: "John Doe's Blog",
+  description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
